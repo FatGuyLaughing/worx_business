@@ -5,4 +5,4 @@ projects[] = "drupal"
 
 projects[worx_business][type] = "profile"
 projects[worx_business][download][type] = "git"
-projects[worx_business][download][url] = "git@git.meridian-ds.com:worx/Business.git"
+projects[worx_business][download][url] = "git://github.com/FatGuyLaughing/worx_business.git"
