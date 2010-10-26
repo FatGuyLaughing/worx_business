@@ -112,6 +112,6 @@ projects[css_injector][version] = "1"
 
 ;Libraries
 libraries[htmlpurifier_library][download][type] = "git"
-libraries[htmlpurifier_library][destination] = "modules/htmlpurifier"
+libraries[htmlpurifier_library][destination] = "modules/standard/htmlpurifier"
 libraries[htmlpurifier_library][download][url] = "git://github.com/FatGuyLaughing/htmlpurifier_library.git"
 libraries[htmlpurifier_library][directory_name] = "library"
